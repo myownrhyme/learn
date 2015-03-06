@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/3/4 17:29:19。
+     1>项目“H:\User\workplace\vs2013\practice_c++_primer5\chapter1\1.1\1.3\1.3\1.3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 1.3.cpp
+         1.3.cpp
+     1>h:\user\workplace\vs2013\practice_c++_primer5\chapter1\1.1\1.3\1.3\1.3.cpp(2): warning C4138: 在注释外找到“*/”
+     1>h:\user\workplace\vs2013\practice_c++_primer5\chapter1\1.1\1.3\1.3\1.3.cpp(2): error C2059: 语法错误:“/”
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): error MSB6006: “CL.exe”已退出，代码为 2。
+     1>已完成生成项目“H:\User\workplace\vs2013\practice_c++_primer5\chapter1\1.1\1.3\1.3\1.3.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.32
